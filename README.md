@@ -9,7 +9,7 @@ There are no finished maps but one at the moment is their to be downloaded
 
 # Maps in progress
 - ctf_botgrinderwiththeboys
-- ctf_aqua (A capture the flag map based on the water part of Changed)
+- ctf_aqua
 
 # ctf_botgrinderwiththeboys (Capture the Flag)
 This map is designed for getting achievements or just to kill bots. The bots
