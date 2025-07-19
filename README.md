@@ -1,7 +1,9 @@
 # Hiver's TF2 Maps
-This is a git of all my Team Fortress 2 maps that I have created. the maps will
-have a .bsp that you put into tf/maps. But if there is a .vpk put it in tf/custom.
-The vpk is a Valve Pak with custom textures or custom models.
+This is a git of all my Team Fortress 2 maps that I have created. I have actually
+made it very simple for you, all you need to do is put the folder into your main
+Team Fortress 2 directory. If you don't know how to get into your main game dir
+just go on Steam and right the game and go to Manage then Browse Local Files.
+So (Team Fortress 2 --> Manage --> Browse Local Files) or you can in Proporites.
 
 # Maps
 There are no finished maps but one at the moment is their to be downloaded
